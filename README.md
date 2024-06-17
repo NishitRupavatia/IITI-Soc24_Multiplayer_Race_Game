@@ -1,1 +1,1 @@
-# IITI-Soc24_Multiplayer_Race_Game
+# IIT-Soc24_Multiplayer_Race_Game
